@@ -2,10 +2,10 @@ Diving into emacs magit to see if it really is magic.
 
 
 magit-status  appearently is my friend.   
-| Docutmentaion | comand           |
-|---------------+------------------|
-| magit-status  | M-x magit status |
-|               |                  | 
+| Docutmentaion | comand                  |
+|---------------+-------------------------|
+| magit-status  | M-x magit status  C-x-g |
+|               |                         |
   
 
 

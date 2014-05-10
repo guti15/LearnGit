@@ -9,3 +9,20 @@ magit-status  appearently is my friend.
   
 
 
+ok learning more about git itself learned term stage: simlar to add 
+
+magit you stage the file (git add) 
+then you commit using -c  (git commit) 
+lastly  push 	by using P (git push) 
+
+oh I should not forget pull -F (git pull) 
+to delete it is -K  
+
+
+
+I will attempt to brush up this notes, but currently opening magit-status 
+to open lower windown and just single pressign those keys  c,F,K,P
+
+
+magit is looking magical 
+

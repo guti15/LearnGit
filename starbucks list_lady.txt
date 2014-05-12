@@ -1,0 +1,14 @@
+ -*- mode: org -*- 
+
+Lady who inspired me at starbucks reconmendation
+
+* List 
+ 
+| List | Description                        | link                    |
+|------+------------------------------------+-------------------------|
+|    1 | Book she was reading good for econ | [[http://www.amazon.com/The-Art-Profitability-Adrian-Slywotzky/dp/0446692271][the-art of probability]]  |
+|    2 | A book about                       | [[http://www.amazon.com/Presence-Human-Purpose-Field-Future/dp/0385516304][Presence by Peter Senge]] |
+|    3 | What am I good at                  | [[https://www.google.com/search?q=jahari+window&oq=jahari+window&aqs=chrome..69i57j0l5.2719j0j1&sourceid=chrome&es_sm=119&ie=UTF-8#q=johari+window&spell=1][Jahari window]]           |
+|      |                                    |                         |
+|------+------------------------------------+-------------------------|
+|      |                                    |                         |
